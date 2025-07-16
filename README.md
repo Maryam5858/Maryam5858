@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi there! I'm Maryam Suhana
 
-<!--
-**Maryam5858/Maryam5858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Support Engineer | Cloud & Virtualization Specialist | Data Science Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Based in:** Cooma, NSW, Australia 
+📫 **Email:** maryam.suhana8@gmail.com  
+💼 **Currently:** Exploring opportunities in Technical Support, Customer Success, and Cloud Ops
+
+---
+
+## 🚀 About Me
+
+I’m a proactive and results-driven Technical Support Engineer with 3+ years of experience supporting global enterprise clients at VMware/Broadcom.  
+I specialize in virtualization, cloud infrastructure, troubleshooting complex systems, and driving high customer satisfaction.  
+I’m currently pursuing my MBA in Data Science to bridge tech support with analytics and smarter IT operations.
+
+---
+
+## 🛠️ **Technical Skills**
+
+- **Virtualization:** VMware vSphere, vCenter, NSX, ESXi, VCF
+- **Cloud Platforms:** Microsoft 365, AWS Fundamentals
+- **Databases:** PostgreSQL, MySQL, MS SQL basics
+- **Scripting:** Python, Bash, PowerCLI
+- **Tools:** Salesforce, Jira, Bugzilla, Zendesk (familiar)
+- **Networking:** TCP/IP, DNS, VPN, Firewalls, Wireshark
+- **OS:** Linux, Windows Server
+
+---
+
+## 🎓 **Certifications**
+
+- ✅ VMware Certified Professional – DCV (VCP-DCV)
+- ✅ VMware Certified Advanced Professional – DCV Design (VCAP)
+- ✅ MTA: Introduction to Programming Using Python
+- 🕒 In Progress: Microsoft 365 Certified: Fundamentals (MS-900)
+
+---
+
+## 📌 **Currently working on**
+
+- Learning more about **cloud automation** and **data science**
+- Upskilling on **Zendesk administration** and **ITSM best practices**
+- Exploring **technical writing & knowledge base design**
+
+---
+
+## ✨ **Connect with me**
+
+- 📧 [Email](mailto:maryam.suhana8@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+
+---
+
+**Thanks for visiting my GitHub! 👩‍💻✨**
+
