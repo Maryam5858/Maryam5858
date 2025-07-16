@@ -41,9 +41,10 @@ I’m currently pursuing my MBA in Data Science to bridge tech support with anal
 
 ## 📌 **Currently working on**
 
-- Learning more about **cloud automation** and **data science**
-- Upskilling on **Zendesk administration** and **ITSM best practices**
-- Exploring **technical writing & knowledge base design**
+- Pursuing an MBA in Data Science
+- Strengthening skills in IT support and technical troubleshooting
+- Gaining knowledge in cloud technologies and virtualization
+- Passionate about delivering excellent customer service and resolving technical issues
 
 ---
 
