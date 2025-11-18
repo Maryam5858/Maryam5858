@@ -4,7 +4,7 @@
 
 ---
 
-🌍 **Based in:** Cooma, NSW, Australia 
+🌍 **Based in:** NSW, Australia 
 📫 **Email:** maryam.suhana8@gmail.com  
 💼 **Currently:** Exploring opportunities in Technical Support, Customer Success, and Cloud Ops
 
@@ -35,7 +35,7 @@ I’m currently pursuing my MBA in Data Science to bridge tech support with anal
 - ✅ VMware Certified Professional – DCV (VCP-DCV)
 - ✅ VMware Certified Advanced Professional – DCV Design (VCAP)
 - ✅ MTA: Introduction to Programming Using Python
-- 🕒 In Progress: Microsoft 365 Certified: Fundamentals (MS-900)
+- ✅ Microsoft 365 Certified: Fundamentals (MS-900)
 
 ---
 
