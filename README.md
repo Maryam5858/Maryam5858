@@ -50,7 +50,6 @@ I’m currently pursuing my MBA in Data Science to bridge tech support with anal
 
 ## ✨ **Connect with me**
 
-- 📧 [Email](mailto:maryam.suhana8@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/maryam-suhana-222a57195)
 - 📄 [View my Resume](./MaryamSuhana_Resume_IT.pdf)
 
