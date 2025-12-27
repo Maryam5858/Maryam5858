@@ -36,6 +36,7 @@ I’m currently pursuing my MBA in Data Science to bridge tech support with anal
 - ✅ VMware Certified Advanced Professional – DCV Design (VCAP)
 - ✅ MTA: Introduction to Programming Using Python
 - ✅ Microsoft 365 Certified: Fundamentals (MS-900)
+- ✅ AWS Certified Cloud Practitioner
 
 ---
 
